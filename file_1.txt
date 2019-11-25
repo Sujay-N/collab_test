@@ -1,3 +1,6 @@
 HELLO MASAI
 WEEK 3 User 2
+<<<<<<< HEAD
 
+=======
+>>>>>>> 49945edebfa887552840faa0cf23a95fd731b567
